@@ -1,0 +1,27 @@
+.logo{
+    width: 50px;
+    cursor: pointer;
+    margin-right: 10px;
+    border-radius: 100px;
+}
+.jumbotron{
+    background-image: url(foto/bg1.jpg);
+    background-attachment: fixed;
+    color: rgb(0, 0, 0);
+    background-size: cover;
+    background-position: 0-50px;
+    height: 450px;
+    padding-bottom: 33rem;
+    padding-top: 2rem;
+    text-shadow: 100px;
+    
+}
+
+.bg{
+    background-color: #000000;
+    color: white;
+    
+}
+.bg1{
+    padding-top: 2rem;
+}
